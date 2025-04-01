@@ -91,7 +91,7 @@ export default function Home() {
                 />
               </a>
               <Link
-                href="/book"
+                href="https://evoai.gitbook.io/evoai"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-[0.21vw] cursor-pointer"
